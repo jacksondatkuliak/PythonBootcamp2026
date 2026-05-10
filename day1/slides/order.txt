@@ -1,0 +1,11 @@
+intro
+context
+terminal
+github
+
+Then figure out:
+WSL for people who need it
+If people are running Macs, help them setup homebrew to install git
+Install git and clone repo
+Bashlandia in groups
+Other exercises if people have extra time
