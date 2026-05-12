@@ -6,3 +6,5 @@
 *.sublime-project 
 *.DS_STORE
 .ipynb_checkpoints
+venv
+/solutions
