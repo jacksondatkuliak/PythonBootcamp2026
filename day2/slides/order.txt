@@ -1,0 +1,9 @@
+iterm2 + zsh
+
+review
+fileIO
+virtual_environments
+
+start group challenge
+
+people can do the various exercises after they get done with group challenge
